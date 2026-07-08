@@ -222,22 +222,6 @@ This model can be integrated into:
 
 ---
 
-# Installation
-
-Clone the repository:
-
-```bash
-git clone https://github.com/your-username/recipe-ingredient-ner.git
-cd recipe-ingredient-ner
-```
-
-Install dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
----
 
 # Run the Project
 
