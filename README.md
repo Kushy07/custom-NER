@@ -271,6 +271,6 @@ This project is intended for educational and research purposes.
 
 # Author
 
-**Your Name**
+**Kushagra Vats**
 
 Machine Learning • Natural Language Processing • Named Entity Recognition
