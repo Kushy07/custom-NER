@@ -1,6 +1,6 @@
 # custom-NER
 
-# 🍽️ Recipe Ingredient Named Entity Recognition using Conditional Random Fields (CRF)
+# Recipe Ingredient Named Entity Recognition using Conditional Random Fields (CRF)
 
 A Machine Learning project that automatically extracts structured information from unstructured recipe ingredient text using **Conditional Random Fields (CRF)**.
 
@@ -14,7 +14,7 @@ This project demonstrates how sequence labeling techniques can transform free-te
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 Recipe ingredient lists are typically written as free text without a fixed grammatical structure. Before recipes can be used for recommendation systems, nutrition analysis, or grocery list generation, important entities need to be extracted automatically.
 
